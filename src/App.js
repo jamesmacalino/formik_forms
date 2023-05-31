@@ -1,5 +1,5 @@
 import React from "react";
-import './App/css';
+import './index.css';
 
 // TODO: import useFormik from formik library
 import {useFormik} from 'formik'
